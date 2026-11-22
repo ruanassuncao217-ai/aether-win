@@ -1,0 +1,11 @@
+[
+  { "name": "Rainmeter (HUD / widgets de desktop)",        "id": "Rainmeter.Rainmeter" },
+  { "name": "TranslucentTB (barra de tarefas translucida)", "id": "CharlesMilette.TranslucentTB" },
+  { "name": "Windows Terminal",                             "id": "Microsoft.WindowsTerminal" },
+  { "name": "Oh My Posh (prompt)",                          "id": "JanDeDobbeleer.OhMyPosh" },
+  { "name": "PowerToys (FancyZones, Run, Peek)",            "id": "Microsoft.PowerToys" },
+  { "name": "Flow Launcher (launcher estilo Spotlight)",    "id": "Flow-Launcher.Flow-Launcher", "optional": true },
+  { "name": "Windhawk (mods de Start/Taskbar)",             "id": "RamenSoftware.Windhawk",      "optional": true },
+  { "name": "Files (explorador moderno)",                   "id": "FilesCommunity.Files",        "optional": true },
+  { "name": "YASB (barra superior estilo status bar)",      "id": "AmN.yasb",                    "optional": true }
+]
