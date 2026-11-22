@@ -1,0 +1,27 @@
+{
+  "schemes": [
+    {
+      "name": "Aether Neon",
+      "background": "#0A0E1A",
+      "foreground": "#D6F0FF",
+      "cursorColor": "#00E5FF",
+      "selectionBackground": "#1B2A4A",
+      "black": "#0A0E1A",
+      "red": "#FF4D6D",
+      "green": "#00FF9C",
+      "yellow": "#FFD166",
+      "blue": "#3D8BFF",
+      "purple": "#B388FF",
+      "cyan": "#00E5FF",
+      "white": "#D6F0FF",
+      "brightBlack": "#4A5A78",
+      "brightRed": "#FF7A93",
+      "brightGreen": "#5CFFC0",
+      "brightYellow": "#FFE08A",
+      "brightBlue": "#7AB1FF",
+      "brightPurple": "#D1B3FF",
+      "brightCyan": "#7DF3FF",
+      "brightWhite": "#FFFFFF"
+    }
+  ]
+}
